@@ -1,0 +1,8 @@
+{
+	"name" 			: "Digit_Recognizer",
+	"description"	: "https://www.kaggle.com/c/digit-recognizer",
+	"buildfile"		: "buildfile",
+	"runfile"		: "runfile",
+	"debugfile"		: "debugfile",
+	"type"			: "kaggle"
+}
